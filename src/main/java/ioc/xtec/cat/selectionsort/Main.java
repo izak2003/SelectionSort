@@ -44,6 +44,9 @@ public static void main(String[] args) {
         } catch (IllegalArgumentException e) {
             System.out.println("Error: " + e.getMessage());
         }
+        
+        System.out.println("Izak Camacho");
+        System.out.println("He aprés molt fent el mòdul 8 de DAW, encara que hagi estat dur!!!");
 
         scanner.close();
     }
